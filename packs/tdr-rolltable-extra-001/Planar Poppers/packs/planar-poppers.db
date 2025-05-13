@@ -1,0 +1,111 @@
+{
+  "name": "Planar Poppers",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "YuwWr7mv9pzhiyJ9",
+      "text": "You teleport 1 mile in a random direction and believe you have traveled to a different plane",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "9c4znB2modYxtIcz",
+      "text": "For each step you take you alternate between feeling scorching heat and freezing cold.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "01MpxZ7KI6OhVPbO",
+      "text": "Your clothes and footwear are filled with dirt and sand that you cannot get rid of as if you went to the beach.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "ByXbbURrgkX13R9z",
+      "text": "The landscape around you bends and shifts continously making you nauseous. Make a DC 10 Constituion saving throw or be poisoned for the duration.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "SDKJqluvYRmElRrj",
+      "text": "Your mind is flooded with knowledge of the outer planes. Make a DC 10 Intelligence saving throw or have your intelligence lowered to 5 for the duration.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "bwheybgdTp1p3Sup",
+      "text": "You feel waves of a warmth wash over you. Regain 1d4 health every 10 minutes.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {
+    "exportSource": {
+      "world": "tester",
+      "system": "dnd5e",
+      "coreVersion": "12.331",
+      "systemVersion": "4.0.4"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.0.4",
+    "createdTime": 1746277104181,
+    "modifiedTime": 1746277419514,
+    "lastModifiedBy": "389xSQk2KytaOylc"
+  },
+  "formula": "1d6"
+}

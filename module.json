@@ -1,0 +1,65 @@
+{
+  "id": "the-dungeon-report-extra-001",
+  "title": "The Dungeon Report Extra 001",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "To celebrate our 500 supporter event, The Dungeon Report brings you this extra issue containing 3 fantastic goblinoids and 1 unique item for free!",
+  "authors": [
+    {
+      "name": "The Dungeon Report",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "tdr-creatures-extra-001",
+      "label": "TDR Creatures Extra 001",
+      "path": "packs/tdr-creatures-extra-001",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "tdr-item-extra-001",
+      "label": "TDR Item Extra 001",
+      "path": "packs/tdr-item-extra-001",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "tdr-rolltable-extra-001",
+      "label": "TDR RollTable Extra 001",
+      "path": "packs/tdr-rolltable-extra-001",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "protected": false,
+  "manifest": "https://r2.foundryvtt.com/packages-public/the-dungeon-report-extra-001/module.json"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Planar Poppers",
+  "type": "consumable",
+  "img": "modules/the-dungeon-report-extra-001/packs/tdr-item-extra-001/Planar%20Poppers/images/Planar%20Poppers-Base%20Image.png",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "autoDestroy": true,
+      "max": ""
+    },
+    "description": {
+      "value": "<p>[Roll Planar Popper Effect](@RollTable[Planar Poppers])</p><p>These colourful candies are sweet only to goblinkin, others who have tried them or attempted to use thier powers have been met with a variety of horrid flavours. Eveything from rotten eggs to racoon feces. Regardless of the taste, these candies can send those that eat them to otherworldly planes or temporarily addle their minds beyond recognition.</p><p></p><p>When consuming a popper, if you have the Goblin language proficiency you may choose which plane to travel to as if you cast Plane Shift but can not bring anyone else with you.</p><p>If you do not have the goblin language proficiency, roll a D6 to determine the poppers effect. The effects of the popper last for 1 hour.</p><p>1. You teleport 1 mile in a random direction and believe you have traveled to a different plane.</p><p>2. For each step you take you alternate between feeling scorching heat and freezing cold.</p><p>3. Your clothes and footwear are filled with dirt and sand that you cannot get rid of as if you went to the beach.</p><p>4. The landscape around you bends and shifts continously making you nauseous. Make a DC 10 Constituion saving throw or be poisoned for the duration.</p><p>5. Your mind is flooded with knowledge of the outer planes. Make a DC 10 Intelligence saving throw or have your intelligence lowered to 5 for the duration.</p><p>6. You feel waves of a warmth wash over you. Regain 1d4 health every 10 minutes.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": "<p>Colourful candies with magical swirls inside.</p>"
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "rare",
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "type": {
+      "value": "food",
+      "subtype": ""
+    },
+    "damage": {
+      "base": {
+        "number": null,
+        "denomination": null,
+        "types": [],
+        "custom": {
+          "enabled": false
+        },
+        "scaling": {
+          "number": 1
+        }
+      },
+      "replace": false
+    },
+    "magicalBonus": null,
+    "properties": [
+      "mgc"
+    ]
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    },
+    "exportSource": {
+      "world": "tester",
+      "system": "dnd5e",
+      "coreVersion": "12.331",
+      "systemVersion": "4.0.4"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.0.4",
+    "createdTime": 1746277594478,
+    "modifiedTime": 1746290298348,
+    "lastModifiedBy": "389xSQk2KytaOylc"
+  }
+}
