@@ -530,8 +530,8 @@
       "offsetX": 0,
       "offsetY": 0,
       "fit": "contain",
-      "scaleX": 1,
-      "scaleY": 1,
+      "scaleX": 0.8,
+      "scaleY": 0.8,
       "rotation": 0,
       "tint": "#ffffff",
       "alphaThreshold": 0.75
@@ -594,7 +594,7 @@
         "ring": null,
         "background": null
       },
-      "effects": 1,
+      "effects": 0,
       "subject": {
         "scale": 1,
         "texture": null
@@ -1297,7 +1297,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.0.4",
     "createdTime": 1745764167769,
-    "modifiedTime": 1746290050365,
+    "modifiedTime": 1747442142136,
     "lastModifiedBy": "389xSQk2KytaOylc"
   }
 }

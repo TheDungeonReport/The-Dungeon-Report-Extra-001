@@ -592,7 +592,7 @@
         "ring": null,
         "background": null
       },
-      "effects": 1,
+      "effects": 0,
       "subject": {
         "scale": 1,
         "texture": null
@@ -1556,7 +1556,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.0.4",
     "createdTime": 1745764198958,
-    "modifiedTime": 1746289894855,
+    "modifiedTime": 1747442142136,
     "lastModifiedBy": "389xSQk2KytaOylc"
   }
 }

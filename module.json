@@ -60,6 +60,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/TheDungeonReport/The-Dungeon-Report-Extra-001/main/module.json",
-  "download": "https://github.com/TheDungeonReport/The-Dungeon-Report-Extra-001/archive/refs/heads/main.zip"
+  "protected": false,
+  "manifest": "https://r2.foundryvtt.com/packages-public/the-dungeon-report-extra-001/module.json"
 }
