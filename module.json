@@ -60,6 +60,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/TheDungeonReport/The-Dungeon-Report-Extra-001/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/TheDungeonReport/The-Dungeon-Report-Extra-001/main/module.json",
   "download": "https://raw.githubusercontent.com/TheDungeonReport/The-Dungeon-Report-Extra-001/refs/heads/main/module.json"
 }
